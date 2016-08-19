@@ -7,3 +7,12 @@
 [submodule "wangle"]
 	path = wangle
 	url = https://github.com/facebook/wangle.git
+[submodule "thrift"]
+	path = thrift
+	url = https://github.com/apache/thrift.git
+[submodule "protobuf"]
+	path = protobuf
+	url = https://github.com/google/protobuf.git
+[submodule "grpc"]
+	path = grpc
+	url = https://github.com/grpc/grpc.git

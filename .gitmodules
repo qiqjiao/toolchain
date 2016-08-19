@@ -4,3 +4,6 @@
 [submodule "folly"]
 	path = folly
 	url = https://github.com/facebook/folly.git
+[submodule "wangle"]
+	path = wangle
+	url = https://github.com/facebook/wangle.git
